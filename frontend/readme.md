@@ -1,1 +1,0 @@
-project contains frontend folder
